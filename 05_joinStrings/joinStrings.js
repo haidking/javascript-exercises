@@ -8,7 +8,13 @@
 */
 
 // Add your code right below, good luck!
+let firstName = "Carlos";
+let lastName = "Stevenson";
+let thisyear = 1965;
+let birthyear = 1947;
 
+
+greeting = "Hello my name is " + firstName + " " + lastName + " and I am " + (thisyear - birthyear) + " years old."
 
 
 
